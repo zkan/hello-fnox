@@ -1,2 +1,5 @@
-# hello-fnox
-Hello, fnox
+# Hello, fnox
+
+```bash
+fnox get MY_SECRET
+```

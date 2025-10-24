@@ -1,0 +1,7 @@
+[providers.local]
+type = "age"
+recipients = ["age1qwpvqqcy8tcvtekm94hmjhmeylmd6nr00sd7plsx4vu6s7z8wyxsk9ex2a"]
+
+[secrets.MY_SECRET]
+provider = "local"
+value = "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAzNWwvYXVuYXAraHhaWm0xWjRWemw3YnZxUjMvbnZLOFZGRFhpV1QxaFRrCmlyZ2MxM0l5MVRBdnVBNG1kci9MdmRIL24zeC9sSFU0Rk9lWERhT0JDMk0KLS0tIHJMYlBRa0NGbWVjalFKcCtlam5QL3UvVkV0WFNSTUxhL3ZaM25rdEV6WHMK76EiPSKVQ/stwyoFgokWR4YQPMPd9URTJTdj9JGRUvLZsPjIgBhjkLeQc12g8H9O1efT"
