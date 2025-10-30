@@ -1,6 +1,13 @@
 [providers.local]
 type = "age"
-recipients = ["age1qwpvqqcy8tcvtekm94hmjhmeylmd6nr00sd7plsx4vu6s7z8wyxsk9ex2a"]
+recipients = [
+  "age1qwpvqqcy8tcvtekm94hmjhmeylmd6nr00sd7plsx4vu6s7z8wyxsk9ex2a",
+  "age197tjyxyy77q59zlah75dqcz259y930qe78e3pd7jwvfadacksu6qlxhg5w",
+]
+
+[providers.onepass]
+type = "1password"
+vault = "Development"
 
 [secrets.MY_SECRET]
 provider = "local"
